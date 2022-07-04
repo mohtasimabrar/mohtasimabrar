@@ -8,8 +8,7 @@
 </div>  
   
 
-- 
-🌱 I’m currently learning iOS Development  
+- 🌱 I’m currently learning iOS Development  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
