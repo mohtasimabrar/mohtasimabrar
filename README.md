@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table align="center"><tr><td valign="top" width="100%">
+<table align="center"><tr><td valign="top" width="33.3%">
 
 
 ### Frontend  
