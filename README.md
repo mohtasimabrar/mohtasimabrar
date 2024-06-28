@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abrar, a full-time iOS developer 👨‍💻 working at Brain Station 23 Ltd 🚀
+### <div align="center">I'm Abrar, a full-time iOS developer 👨‍💻 working at Brain Craft Ltd 🚀
 
 </div>  
 <br/>
@@ -28,7 +28,6 @@
 
 <h3 align="left"><u>Frontend Development</u></h3>
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
@@ -42,7 +41,6 @@
 <h3 align="left"><u>Mobile App Development</u></h3>
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left"><u>AI/ML</u></h3>
